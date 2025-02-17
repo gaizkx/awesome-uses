@@ -12656,6 +12656,23 @@ module.exports = [
     ],
   },
   {
+    name: 'Gaizka Guerrero',
+    description: 'Symfony backend developer',
+    url: 'https://gaizka.blog/uses/',
+    twitter: '@gaizkx',
+    emoji: '🤓',
+    country: '🇪🇸',
+    computer: 'linux',
+    phone: 'iphone',
+    tags: [
+      'Developer',
+      'HTML',
+      'CSS',
+      'PHP',
+      'Linux',
+    ],
+  },
+  {
     name: 'Stephen Bunn',
     description:
       'Software engineer, coffee drinker, amateur photographer, occasional blogger',
